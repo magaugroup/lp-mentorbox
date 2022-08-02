@@ -1,0 +1,546 @@
+[
+  {
+    "image": "/assets/images/courses/01-jmp.jpg",
+    "title": "Junior Mobile Programmer",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/02-jna.jpg",
+    "title": "Ahli Cloud Computing",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/03-jwd.jpg",
+    "title": "Junior Web Developer",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/04-jts.jpg",
+    "title": "Junior Tehnical Support",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/05-joo.jpg",
+    "title": "Junior Officer Operator",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/06-nsa.jpg",
+    "title": "Junior Security Analyst",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/07-nsa.jpg",
+    "title": "Network Security Audit",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/08-nam.jpg",
+    "title": "Network Administrator Muda",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/09-nam.jpg",
+    "title": "Network Administrator Madya",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/10-nau.jpg",
+    "title": "Network Administrator Utama",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/database-management.jpg",
+    "title": "Database Management",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/database-programmer.jpg",
+    "title": "Database Programmer",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/digital-computer-technology-scientist.jpg",
+    "title": "Digital Computer Technology Scientist",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/enterprise-resource-planning.jpg",
+    "title": "Enterprise Resource Planning",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/hardware-repair-cell-phone-technician.jpg",
+    "title": "Hardware Repair Cell Phone Technician",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/ict-project-manager.jpg",
+    "title": "ICT Project Manager",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/it-security.jpg",
+    "title": "IT Security",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-network-administrator.jpg",
+    "title": "Junior Network Administrator",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/mobile-phone-technician-software-repair.jpg",
+    "title": "Mobile Phone Technician Software Repair",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/pelatihan-dan-uji-kompetensi-lainnya.jpg",
+    "title": "Pelatihan & Uji Kompetensi Lainnya",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/staff-opersi-layanan-it.jpg",
+    "title": "Staff Opersi Layanan IT",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/system-integrator.jpg",
+    "title": "System Integrator",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/teknisi-pusat-data.jpg",
+    "title": "Teknisi Pusat Data",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/teknisi-utama-jaringan-komputer.jpg",
+    "title": "Teknisi Utama Jaringan Komputer",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/web-administrator.jpg",
+    "title": "Web Administrator",
+    "category": {
+      "slug": "teknologi-informasi-komunikasi",
+      "name": "Teknologi Informasi Komunikasi"
+    }
+  },
+  {
+    "image": "/assets/images/courses/seo-specialist.jpg",
+    "title": "SEO Specialist",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/teknisi-akuntansi-junior.jpg",
+    "title": "Teknisi Akuntansi Junior",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/social-media-marketing.jpg",
+    "title": "Social Media Marketing",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/scrum-master.jpg",
+    "title": "Scrum Master",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/scrum-fundamental.jpg",
+    "title": "Scrum Fundamental",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/sales-operations-marketer.jpg",
+    "title": "Sales Operations Marketer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/office-administration.jpg",
+    "title": "Office Administration",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-sekretaris.jpg",
+    "title": "Junior Sekretaris",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-financial-analyst.jpg",
+    "title": "junior Financial Analyst",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/finansial-management.jpg",
+    "title": "Finansial Management",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/entrepreneurship.jpg",
+    "title": "Entrepreneurship",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/digital-marketing-manager.jpg",
+    "title": "Digital Marketing Manager",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/digital-marketing.jpg",
+    "title": "Digital Marketing",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/customer-service.jpg",
+    "title": "Customer Service",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-sales-officer.jpg",
+    "title": "Chief Sales Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-marketing-officer.jpg",
+    "title": "Chief Marketing Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-information-officer.jpg",
+    "title": "Chief Information Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-human-resource-officer.jpg",
+    "title": "Chief Human Resource Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-finance-officer.jpg",
+    "title": "Chief Finance Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/chief-resource-development-officer.jpg",
+    "title": "Chief Resource Development Officer",
+    "category": {
+      "slug": "bisnis-manajemen",
+      "name": "Bisnis & Manajemen"
+    }
+  },
+  {
+    "image": "/assets/images/courses/voice-over-artist.jpg",
+    "title": "Voice Over Artist",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/videografer.jpg",
+    "title": "Videografer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/video-editing.jpg",
+    "title": "Video Editing",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/sound-enginer.jpg",
+    "title": "sound-enginer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/senior-multimedia-designer.jpg",
+    "title": "Senior Multimedia Designer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/senior-graphic-designer.jpg",
+    "title": "Senior Graphic Designer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/penyiar-radio.jpg",
+    "title": "Penyiar Radio",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/multimedia.jpg",
+    "title": "Multimedia",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-multimedi-designer.jpg",
+    "title": "Junior Multimedi Designer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-graphic-design.jpg",
+    "title": "Junior Graphic Design",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-fashion-designer.jpg",
+    "title": "Junior Fashion Designer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-digital-artist.jpg",
+    "title": "Junior Digital Artist",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/junior-animator.jpg",
+    "title": "Junior Animator",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/fotografer.jpg",
+    "title": "Fotografer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/foley-artist.jpg",
+    "title": "Foley Artist",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/creative-director.jpg",
+    "title": "Creative Director",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/copywriter.jpg",
+    "title": "Copywriter",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/content-writer.jpg",
+    "title": "Content Writer",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/content-creator.jpg",
+    "title": "Content Creator",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/batik.jpg",
+    "title": "Batik",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/barista.jpg",
+    "title": "Barista",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/art-director.jpg",
+    "title": "Art Director",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  },
+  {
+    "image": "/assets/images/courses/arsitek.jpg",
+    "title": "Arsitek",
+    "category": {
+      "slug": "industri-kreatif",
+      "name": "Industri Kreatif"
+    }
+  }
+]
